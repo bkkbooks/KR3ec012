@@ -1,0 +1,562 @@
+canonical_identifier: bkk:krp/KR3ec012/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ec012/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 本草發揮
+  identifiers:
+    krp: KR3ec012
+  tags:
+    kr-categories: KR3ec
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ec012.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ec012_000-jc.yaml, hash: 'sha256:2cc9970f1e1ab7927e05a516e6055797dc20102912a728b2558a34a82e98de1a'}
+  - {seq: 1, filename: KR3ec012_001-jc.yaml, hash: 'sha256:88311b6c9879da473f379c1f036ffccdf121f264549a3300fcca7f26f6e3158a'}
+  - {seq: 2, filename: KR3ec012_002-jc.yaml, hash: 'sha256:f6815f3946a3bec85a245a2d0023203ed7978624fd22a2b37ad14ba2552e0835'}
+  - {seq: 3, filename: KR3ec012_003-jc.yaml, hash: 'sha256:64c8e2f82910c8aa42d4768235ed3d0a1d35ea8fc1405390b7e7e4d35cd96a3f'}
+  - {seq: 4, filename: KR3ec012_004-jc.yaml, hash: 'sha256:5a684c349aa7bc05dd4784664caa1c2c99a2d547f8a336ed82b4fa5db2b72e15'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ec012_000-jc.markers.yaml, hash: 'sha256:1f064bce469405fa6390793f4fc5076ccf81f22d1ecfd1a09f922aa6281325b2'}
+  - {seq: 1, role: markers, filename: assets/KR3ec012_001-jc.markers.yaml, hash: 'sha256:7344cf1b923566a94a18a1e18f5add4387cbb564a29145be90419fdf229a4362'}
+  - {seq: 2, role: markers, filename: assets/KR3ec012_002-jc.markers.yaml, hash: 'sha256:dc610b434e6e6d3a2b68b2139de94d933c571964a67a4c7d9285cd2a13ff3a6c'}
+  - {seq: 3, role: markers, filename: assets/KR3ec012_003-jc.markers.yaml, hash: 'sha256:e8237a629a4d088d192bdf7c046f35355f45c26a97320fd773dea9506cd501d5'}
+  - {seq: 4, role: markers, filename: assets/KR3ec012_004-jc.markers.yaml, hash: 'sha256:03087e56c1db31fad08ab9fc35a6b17d7a9f92072d009d081c5da52fa6ff0ca8'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ec012_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 406
+  label: 校刻本草發揮敘論
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ec012_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 11758
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ec012_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 3290
+  label: 金石部
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec012_jc_001-d3d3
+    span:
+    - body
+    - 3290
+    - 11758
+  label: 草部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ec012_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 11958
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ec012_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 13147
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ec012_jc_003-d5d2
+    span:
+    - body
+    - 2
+    - 7500
+  label: 木部
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec012_jc_003-d5d3
+    span:
+    - body
+    - 7500
+    - 7640
+  label: 人部
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec012_jc_003-d5d4
+    span:
+    - body
+    - 7640
+    - 8470
+  label: 獸部
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec012_jc_003-d5d5
+    span:
+    - body
+    - 8470
+    - 8696
+  label: 禽部
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec012_jc_003-d5d6
+    span:
+    - body
+    - 8696
+    - 9557
+  label: 蟲魚部
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec012_jc_003-d5d7
+    span:
+    - body
+    - 9557
+    - 11396
+  label: 果部
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec012_jc_003-d5d8
+    span:
+    - body
+    - 11396
+    - 12446
+  label: 米穀部
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec012_jc_003-d5d9
+    span:
+    - body
+    - 12446
+    - 13147
+  label: 菜部
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6.h1s1
+    span:
+    - body
+    - 0
+    - 8577
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d2
+    span:
+    - body
+    - 2
+    - 76
+  label: 經曰
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d3
+    span:
+    - body
+    - 76
+    - 294
+  label: 升降者天地之氣交
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d4
+    span:
+    - body
+    - 294
+    - 327
+  label: 藥性要旨
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d5
+    span:
+    - body
+    - 327
+    - 534
+  label: 用藥升降浮沉補瀉法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d6
+    span:
+    - body
+    - 534
+    - 771
+  label: 藏氣法時補瀉法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d7
+    span:
+    - body
+    - 771
+    - 1077
+  label: 治法綱要
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d8
+    span:
+    - body
+    - 1077
+    - 1192
+  label: 用藥用方辯
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d9
+    span:
+    - body
+    - 1192
+    - 1321
+  label: 去臟腑之火
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d10
+    span:
+    - body
+    - 1321
+    - 1424
+  label: 各經引用
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d11
+    span:
+    - body
+    - 1424
+    - 1462
+  label: 五味所用
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d12
+    span:
+    - body
+    - 1462
+    - 1498
+  label: 用藥各定分兩
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d13
+    span:
+    - body
+    - 1498
+    - 1632
+  label: 藥性生熟用法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d14
+    span:
+    - body
+    - 1632
+    - 1693
+  label: 藥用根梢法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d15
+    span:
+    - body
+    - 1693
+    - 1705
+  label: 醫學啟源天地六位臟象之圖
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d16
+    span:
+    - body
+    - 1705
+    - 1986
+  label: 手足三陰三陽
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d17
+    span:
+    - body
+    - 1986
+    - 2507
+  label: 隨證治病藥品
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d18
+    span:
+    - body
+    - 2507
+    - 2859
+  label: 五臟補瀉法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d19
+    span:
+    - body
+    - 2859
+    - 2968
+  label: 臟腑相生相剋
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d20
+    span:
+    - body
+    - 2968
+    - 2989
+  label: 七神
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d21
+    span:
+    - body
+    - 2989
+    - 3633
+  label: 制方之法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d22
+    span:
+    - body
+    - 3633
+    - 3672
+  label: 㕮咀之藥
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d23
+    span:
+    - body
+    - 3672
+    - 4543
+  label: 五行制方生克法附湯例
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d24
+    span:
+    - body
+    - 4543
+    - 4572
+  label: 五味之用
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d25
+    span:
+    - body
+    - 4572
+    - 4589
+  label: 五入
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d26
+    span:
+    - body
+    - 4589
+    - 4636
+  label: 五走
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d27
+    span:
+    - body
+    - 4636
+    - 4938
+  label: 五宜
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d28
+    span:
+    - body
+    - 4938
+    - 4995
+  label: 五多五傷
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d29
+    span:
+    - body
+    - 4995
+    - 5273
+  label: 六化
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d30
+    span:
+    - body
+    - 5273
+    - 5839
+  label: 東垣標本陰陽論
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d31
+    span:
+    - body
+    - 5839
+    - 6222
+  label: 用藥法象
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d32
+    span:
+    - body
+    - 6222
+    - 6297
+  label: 形色性味體
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d33
+    span:
+    - body
+    - 6297
+    - 6341
+  label: 諸藥相反例
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d34
+    span:
+    - body
+    - 6341
+    - 6723
+  label: 用藥凡例
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d35
+    span:
+    - body
+    - 6723
+    - 7381
+  label: 制方用藥例
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d36
+    span:
+    - body
+    - 7381
+    - 7820
+  label: 用丸散藥例
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d37
+    span:
+    - body
+    - 7820
+    - 7979
+  label: 論用藥必本四時
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d38
+    span:
+    - body
+    - 7979
+    - 8162
+  label: 五行五色五味五走五臟主禁例
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ec012_jc_004-d6d39
+    span:
+    - body
+    - 8162
+    - 8577
+  label: 東垣論君臣佐使
+  type: section
+  level: 2
+hash: sha256:32c70402d625f5fed7091d78f18dd04915120f8e09e22d01d0c908d949bf0a1c
